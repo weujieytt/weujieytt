@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="Javascript:alert(hello)">
+  <a href="https://weujieytt.github.io/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=alert(Weujie);每天都要开心😀&center=true&size=27">
   </a>
 </h1>
